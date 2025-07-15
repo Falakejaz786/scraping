@@ -131,9 +131,3 @@ description of the lagoon and coral reef
 6️⃣ Download and upload your completed notebook back to GitHub
 
 ---
----
-
-```
-
-
-
